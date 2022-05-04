@@ -1,5 +1,3 @@
-# E-Voting - Robbi Abdul Rohman
-
 Introduction
 ------------
 
