@@ -1,0 +1,12 @@
+CRITICAL - 2022-05-01 03:31:15 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(332): CodeIgniter\Database\BaseConnection->initialize()
+#1 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/Database/BaseConnection.php(1226): CodeIgniter\Database\MySQLi\Connection->_escapeString()
+#2 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/Model.php(726): CodeIgniter\Database\BaseConnection->escapeString()
+#3 /opt/lampp/htdocs/e-voting/app/Controllers/Auth/Auth.php(32): CodeIgniter\Model->__call()
+#4 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/CodeIgniter.php(832): App\Controllers\Auth\Auth->index()
+#5 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController()
+#6 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest()
+#7 /opt/lampp/htdocs/e-voting/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /opt/lampp/htdocs/e-voting/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#9 {main}

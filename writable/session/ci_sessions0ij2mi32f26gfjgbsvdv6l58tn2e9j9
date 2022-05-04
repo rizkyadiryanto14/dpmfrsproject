@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1650989127;_ci_previous_url|s:28:"http://localhost:8080/voting";nama|s:5:"Rizky";email|s:15:"rizky@gmail.com";id_level|s:1:"1";danger|s:19:"Token sudah expired";__ci_vars|a:2:{s:6:"danger";s:3:"old";s:13:"_ci_old_input";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:1:{s:5:"token";s:7:"3YlRl10";}}
