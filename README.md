@@ -58,7 +58,7 @@ database.default.DBDriver = MySQLi
 *4.* Jalankan Development server di terminal
 
 ```php
-cd dpmfrsuts_project
+cd dpmfrsuts-project
 
 php spark serve
 ```
