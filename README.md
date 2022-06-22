@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Aplikasi ini dibuat untuk memudahkan dalam pengambilan suaa
+Aplikasi ini dibuat dari proker para anggora DPM FRS UTS
 
 Features
 --------
