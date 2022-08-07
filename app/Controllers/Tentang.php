@@ -1,10 +1,4 @@
-<?php 
-
-/**
- * E-Voting Codeigniter 4
- * Robbi Abdul Rohman
- * https://github.com/robbiabd
- */
+<?php
 
 namespace App\Controllers;
 
