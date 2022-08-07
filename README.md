@@ -26,7 +26,7 @@ Setup
 *1.* Clone repo ini
 
 ```bash
-git clone https://github.com/rizkyadiryanto14/dpmfrsuts-project
+git clone https://github.com/rizkyadiryanto14/dpmfrsproject.git
 ```
 
 *2.* Buka directory project dengan terminal dan jalankan composer install
